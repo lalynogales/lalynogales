@@ -38,5 +38,5 @@ $(document).ready(function () {
         menuOptions.removeClass('active');
     })
 
-    menuOptions.eq(0).trigger('click');
+    // menuOptions.eq(0).trigger('click');
 });
