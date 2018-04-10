@@ -22,3 +22,6 @@ git add .
 git commit -m 'some message here'
 - run in bash
 git push origin master
+- check url
+http://lalynogales.github.io/
+
